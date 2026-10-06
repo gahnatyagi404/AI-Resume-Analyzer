@@ -1,0 +1,57 @@
+{
+    "programming": [
+        "python",
+        "java",
+        "c++",
+        "c",
+        "javascript",
+        "typescript",
+        "html",
+        "css"
+    ],
+
+    "ai_ml": [
+        "artificial intelligence",
+        "machine learning",
+        "deep learning",
+        "natural language processing",
+        "nlp",
+        "computer vision",
+        "tensorflow",
+        "pytorch",
+        "scikit-learn"
+    ],
+
+    "data_science": [
+        "data science",
+        "data analysis",
+        "data visualization",
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "seaborn"
+    ],
+
+    "database": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "database"
+    ],
+
+    "tools": [
+        "git",
+        "github",
+        "docker",
+        "streamlit",
+        "jupyter",
+        "vscode"
+    ],
+
+    "cloud": [
+        "aws",
+        "azure",
+        "google cloud"
+    ]
+}
